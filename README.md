@@ -10,7 +10,7 @@
   </h3>
 </p>
 
-###Demo credentials:
+**Demo credentials**
 
 **Firstname:**"Test", **Lastname:**"User", **Password:**"trouble"
 
