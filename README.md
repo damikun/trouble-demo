@@ -31,4 +31,13 @@ Trouble is system base for factory-oriented projects. It provides various functi
 - New field project integration task management
 - Maintenance managment
 
+**API Interface**
+Trouble use by default graphql endpoint but also contains some basic REST API, which can be extended by concrete application needs in case graphql is not suitable.
+
+- The system is designed to run on-premise or in the cloud. 
+- Compatible with MS SQL, PostgresSQL, and MySQL. The main database can be chosen.
+- Data analytics and logs are stored in the elastic database.
+- The frontend is built using React, backend use .net Core
+- The app contains various services  Frontend, Backend, Elastic, DB, Fileserver, Redis, etc..
+
 Dalibor Kundrat
