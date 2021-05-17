@@ -4,6 +4,8 @@
   <img src="images/toast.gif" alt="Trouble-Demo" >
   </a> -->
 
+<img src="images/demo1.PNG" alt="React-Toast-Notify" >
+
   <h3 align="center">Trouble</h3>
    <h3 align="center">
     <a href="https://demo.troubledev.com">Online Demo</a>
@@ -42,3 +44,8 @@ Trouble use by default graphql endpoint but also contains some basic REST API, w
 - The app contains various services  Frontend, Backend, Elastic, DB, Fileserver, Redis, Scheduler, Messaging, etc..
 
 Dalibor Kundrat
+
+
+<img src="images/demo2.PNG" alt="Issue detail" >
+
+<img src="images/demo3.PNG" alt="Trouble workboard" >
