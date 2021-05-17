@@ -11,6 +11,7 @@
 </p>
 
 **What is it?**
+
 Trouble is system base for factory-oriented projects. It provides various functionality as tracking planning and managing industrial and maintenance-related projects. It helps to collaborate and control your project across the industrial environment.
 
 **What is use cases?**
