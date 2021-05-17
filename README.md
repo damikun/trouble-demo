@@ -10,6 +10,25 @@
   </h3>
 </p>
 
-Trouble is system base for factory-oriented projects. It provides various functionality as tracking planning and managing industrial and maintenance-related projects by Trouble CMMS. Collaborate and control your project across the industrial environment.
+**What is it?**
+Trouble is system base for factory-oriented projects. It provides various functionality as tracking planning and managing industrial and maintenance-related projects. It helps to collaborate and control your project across the industrial environment.
+
+**What is use cases?**
+- Read and collect data from the production plant and process static analytics and anomaly detection. Generate maintenance events (jobs/issues)  based on results.
+- Manage production assets, documentation and related files in one place.
+- Use cron time period or event schedule to generate maintenance or operational job.
+- Manage overview of pending jobs under the various project (plants/rooms/environment)
+- Connect 3-part application as event listeners over WebHooks
+- Provides multiple project roles to collaborate with external suppliers.
+
+**Application examples:**
+- Collecting data (Alarms, QA photos,  measurement values, etc..)
+- Order transfer and managment between APP <> PLCs
+- Store and send printing job to industrial label printers
+- Hold internal EAN or QR Code and provide tracking information for pallet transfer or storage.
+- Automatic SW backup module
+- Custom data visualization
+- New field project integration task management
+- Maintenance managment
 
 Dalibor Kundrat
