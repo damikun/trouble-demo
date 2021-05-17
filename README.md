@@ -46,6 +46,10 @@ Trouble use by default graphql endpoint but also contains some basic REST API, w
 Dalibor Kundrat
 
 
-<img src="images/demo2.PNG" alt="Issue detail" >
+<img src="images/demo2.PNG" alt="Trouble -> Issue detail" >
 
-<img src="images/demo3.PNG" alt="Trouble workboard" >
+<img src="images/demo3.PNG" alt="Trouble -> workboard" >
+
+<img src="images/demo6.PNG" alt="Trouble -> Asset view" >
+
+<img src="images/demo5.PNG" alt="Trouble -> Issue detail (bug)" >
